@@ -1,0 +1,115 @@
+body{margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+   }
+p{
+   color:#40514E;
+   line-height:2;
+}
+.profile{width:30%;
+         margin:0 auto 0 auto;}
+hr{
+   border-style:none;
+   border-top-style:dotted;
+   border-width:5px;
+   border-color:#4d6478;
+   width: 4%;
+   margin: 100px auto;
+   
+  }
+
+h1{font-family: 'Sacramento', cursive;
+   color:#2B4865;
+   font-size:5.625rem;
+   }
+ 
+.role{position:relative;
+   color:#2B4865;
+      bottom:70px;}
+      
+h2{font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   color: #2B4865;}
+
+h3{font-family: 'Montserrat', sans-serif;
+  color: #63b5d8;}
+
+.container-top{background-color:#c9efff;
+               padding-top: 100px;
+               position: relative;
+               height: 606px;}
+              
+     .cloud_top{position:absolute;
+                top:50px;
+                right:500px;
+               } 
+                
+     .bottom_cloud{
+               position: relative;
+               bottom: 360px;}  
+
+     .mount{position: relative;
+            bottom:62px;
+            right:75px;}
+
+.middle-container{background-color:DFE8CC;}
+   .arun_img{width:25%;
+             height:25%;}
+
+
+
+ 
+.btn{background-color:cyan;}
+.contact{color: white;
+   font-family: 'Montserrat', sans-serif;}
+
+.skill-row{
+   width: 50%;
+         margin: 100px auto 100px auto;
+         text-align: left;
+         line-height:2;}
+
+.code_img{width:18%;
+          float: left;
+          padding-right: 30px;
+         }         
+.trade{width:20%;
+     float: right;
+     padding-left:30px;
+   }
+
+.contact-me{margin:0 auto 40px auto;
+            height:280px;}
+
+.btn
+   {cursor: pointer;
+    background-image: linear-gradient(to bottom, #56e7ec, #0d9da2);
+    border-radius: 13px;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    margin-top:45px ;
+    right:670px;
+   transition:background-color.10s} 
+
+.btn:hover{background-image: linear-gradient(to bottom, #1e7174,#11dce3);}   
+.footer-link:hover{color: ;} 
+
+
+
+.bottom-container{background-color:#5F6F94;
+                  padding-top:28px;
+                  padding-bottom:20px;
+               text-align:center; }    
+
+.footer-link{padding:10px;
+             color: #fad4d4;
+             font-family: 'Montserrat', sans-serif;
+            text-decoration: none;
+            cursor: pointer;}
+            .last{color:white}
+         
