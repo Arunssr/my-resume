@@ -6,8 +6,7 @@ body{background-color:#B9FFF8}
                border-width:5px;
                border-color: blue;
                width:5%;
-             }
-body{text-alignment:center;}
+               text-align:center; }
 
 h1{color:#3120E0;}
 h1{background-color: rgb(28, 216, 194);}
