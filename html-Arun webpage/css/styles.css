@@ -1,0 +1,17 @@
+body{margin: 0%;
+     text-align: center;
+     background-color: #97D2EC;}
+.cloud_top{margin-left: 400px;}   
+.bottom_cloud{position:absolute;}
+
+.container-top{background-color:#97D2EC;
+               padding-top: 100px;
+              position: relative;}
+
+.container-middle{background-color: chartreuse;
+             height:200px;
+             width: 200px;}
+
+.container-bottom{background-color: rgb(247, 8, 8);
+             height:200px;
+             width: 200px}
